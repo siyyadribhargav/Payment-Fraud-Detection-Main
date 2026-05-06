@@ -215,8 +215,4 @@ This project uses centralized logging (`src/logger.py`) and custom exceptions (`
 
 ---
 
-## 👤 Author
 
-**Bhaskar (Phaneendra)**  
-Machine Learning | Data Science Enthusiast# transaction_fraud_detection
-# payment_fraud_detection
